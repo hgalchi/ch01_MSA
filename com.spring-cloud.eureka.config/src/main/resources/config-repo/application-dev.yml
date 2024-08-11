@@ -1,0 +1,5 @@
+
+spring:
+  #mysql 연동
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/msa_exam

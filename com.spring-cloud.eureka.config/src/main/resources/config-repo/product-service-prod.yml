@@ -1,0 +1,5 @@
+
+spring:
+  #RDS 연결 - 실제 엑세드되지 않습니다.
+  datasource:
+    url: jdbc:mysql://springboot-database.cb2xppa9vrg1.ap-northeast-2.rds.amazonaws.com:3306/msa_exam
